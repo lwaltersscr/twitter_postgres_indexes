@@ -1,0 +1,10 @@
+time="2025-05-12T16:32:52-07:00" level=warning msg="/home/lwalters6476/twitter_postgres_indexes/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+sql.normalized_batch/01.sql pass
+sql.normalized_batch/02.sql pass
+sql.normalized_batch/03.sql pass
+sql.normalized_batch/04.sql pass
+sql.normalized_batch/05.sql pass
+
+real	0m0.154s
+user	0m0.071s
+sys	0m0.047s
